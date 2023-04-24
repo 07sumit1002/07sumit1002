@@ -1,4 +1,4 @@
-<!-- ![logo](https://github.com/07sumit1002/07sumit1002/blob/main/banner.jpg) -->
+![logo](https://github.com/07sumit1002/07sumit1002/blob/main/10.jpg) 
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" widht="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
