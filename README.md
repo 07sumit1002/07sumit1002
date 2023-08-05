@@ -1,6 +1,10 @@
 <!-- ![logo](https://github.com/07sumit1002/07sumit1002/blob/main/2.jpg) -->
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+
+
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 # 💫 About Me:
