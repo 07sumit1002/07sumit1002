@@ -1,6 +1,7 @@
 <!-- ![logo](https://github.com/07sumit1002/07sumit1002/blob/main/2.jpg) -->
-<h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hello Guyzz I'm Sumit
+<br>Student | Web Developer</h1>
+<h3 align="center">🚀 Welcome to my code realm! I'm Sumit Kumar, a passionate Web Developer who transforms ideas into functional code. From sleek web apps to efficient scripts, I make tech dreams a reality.</h3>
 
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
