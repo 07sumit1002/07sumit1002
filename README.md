@@ -12,8 +12,8 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
 # 💫 About Me:
-- 🔭 I’m currently working as Web-Dev Intern  
-- 🤝 I’m looking for help with an Internship  
+- 🔭 I’m currently working as AI Engineer <b>@TCS</b>  
+- 🤝 I’m looking for help with a Full Time Role as an AI Engineer  
 - 🌱 I’m currently learning DSA and MERN stack  
 - 👯‍♂️ I am seeking opportunities to collaborate on full-stack projects  
 
